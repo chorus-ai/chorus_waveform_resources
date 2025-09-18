@@ -8,7 +8,7 @@ assignees: ''
 
 # Readiness checklist
 
-This checklist should be used to assess the readiness of your sites year 1 waveform submission.
+This checklist should be used to assess the readiness of your sites waveform submission.
 
 Before completing this checklist, please read the following two documents:
 
@@ -29,11 +29,10 @@ I confirm that I have submitted the following information in a `SUBMISSION.md` f
 I confirm that waveforms were prepared following the guidelines above, including:
 
 - [ ] a: Files and folders follow the suggested naming recommendation
-- [ ] b: Segments are a maximum of 8 hours
-- [ ] c: Gaps are dealt with according to the guidelines above
-- [ ] d: Code for converting to the submission format has been shared (optional)
+- [ ] b: Waveform data is in a "raw" format with explicit timestamps
+- [ ] c: Code for converting to the submission format has been shared (optional)
 
-## 3. Additional requirements for non-WFDB formatted waveforms
+## 3. Additional information needed to map from submitted format to WFDB
 
 I confirm that I have submitted all information required to interpret my waveforms (in the `SUBMISSION.md` file), including:
 
